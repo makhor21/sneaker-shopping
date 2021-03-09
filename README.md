@@ -1,1 +1,1 @@
-# sneaker-shopping
+<h3 align="center">Sneaker Shopping</h3>
