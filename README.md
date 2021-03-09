@@ -1,4 +1,7 @@
-<h3 align="center">Sneaker Shopping</h3>
+    <h3 align="center">Sneaker Shopping</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: white"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+    <h3 align="left">Languages and Tools:</h3>
+    <h4>Bootstrap</h4>
+    <h4>NodeJS</h4>
+    <h4>ExpressJS</h4>
+    <h4>Javascript</h4>
